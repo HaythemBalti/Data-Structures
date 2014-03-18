@@ -1,9 +1,9 @@
 Data-Structures
 ===============
 
-I provide an overview of basic datastructures implemented in Java. 
+I provide an overview of basic data structures implemented in Java. 
 
 - Stack 
 - Queue 
-- Array 
+- Sorting Algorithms
 - 
